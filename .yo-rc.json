@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "agileim",
+    "packageName": "com.meetup.agileim",
+    "packageFolder": "com/meetup/agileim",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "c9ffdc2c31ca7d9a5e6af6c7e27fd95561f0a05a",
+    "testFrameworks": []
+  }
+}
